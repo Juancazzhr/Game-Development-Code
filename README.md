@@ -1,2 +1,2 @@
-# Game-Development-Code
+# Game Development Code
 Design Patterns, Architecture, SOLID and more in Game Dev
